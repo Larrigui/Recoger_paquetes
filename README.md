@@ -2,6 +2,7 @@
 
 Instrucciones para abrir el proyecto
 
+
 1- Descomprimir el archivo
 2- Abrirlo en visual studio code
 3- Abrir la terminar y colocar npm install
