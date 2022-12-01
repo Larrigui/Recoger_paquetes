@@ -50,9 +50,7 @@ router.post('/registrarusuario', async (req, res)=>{
 		res.json({ status: "error", error: "InvAlid Password" });
 	  });
 
-	  
-
-
+	
   router.post('/registrarorden', (req, res)=>{
   const registrarOrden = new Ordenes(req.body);
 	  registrarOrden
